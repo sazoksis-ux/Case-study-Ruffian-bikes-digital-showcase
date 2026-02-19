@@ -1,9 +1,8 @@
-# 🚲 Case Study: Ruffian bikes digital Showcase
+# 🚲 Case Study: Ruffian bikes digital showcase
 A premium digital showcase for Ruffian bikes. Focused on luxury branding, cognitive load reduction, and interactive technical data UX for high end e-bikes
 ## Product Design: Development of a premium interface for e-bikes with a focus on technical data UX.
 
-> **Role:** UX-UI designer
-> **Scope:** From market analysis and information architecture to visual language and final handoff.
+> **Role:** UX-UI designer. From market analysis and information architecture to visual language and final handoff.
 
 ---
 
