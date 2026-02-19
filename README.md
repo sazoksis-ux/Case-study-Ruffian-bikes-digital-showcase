@@ -1,4 +1,4 @@
-# 🚲 Portfolio. Case Study: Ruffian bikes digital showcase
+# 🚲 Case Study: Ruffian bikes digital showcase
 A premium digital showcase for Ruffian bikes. Focused on luxury branding, cognitive load reduction, and interactive technical data UX for high end e-bikes
 ## Product Design: Development of a premium interface for e-bikes with a focus on technical data UX.
 
