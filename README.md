@@ -15,7 +15,7 @@ Ruffian bikes is an exclusive product at the intersection of engineering and sty
 ---
 
 ## 2. The task
-In this project, I acted as a Product Designer. My goal was to create an interface that works on the feeling of premium quality and status. I sought to find a balance between brand image presentation and functionality, turning the study of complex technical data into an aesthetic and intuitive process.
+In this project, I acted as a UX-UI designer. My goal was to create an interface that works on the feeling of premium quality and status. I sought to find a balance between brand image presentation and functionality, turning the study of complex technical data into an aesthetic and intuitive process.
 
 ---
 
