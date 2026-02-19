@@ -53,7 +53,7 @@ To justify the effectiveness of the design, I based the solution on the followin
 
 * **Reduction of cognitive load:** Thanks to the structure I proposed, the amount of information displayed simultaneously was reduced by half.
 * **Optimization of scroll depth:** The use of accordions allowed me to increase the probability of scrolling to the target button (CTA) due to the compactness of the page.
-* **Time-to-Content:** The grouping of parameters that I developed reduced the time to find a specific characteristic by an average of 40%.
+* **Time to content:** The grouping of parameters that I developed reduced the time to find a specific characteristic by an average of 40%.
 
 ---
 
