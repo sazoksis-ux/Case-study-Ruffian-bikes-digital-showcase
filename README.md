@@ -28,7 +28,7 @@ I started by analyzing the perception of luxury goods. It was important for me t
 The main challenge for me was the presentation of technical characteristics. Ordinary tables look bulky and destroy the premium aesthetic.
 
 **My solution:** I designed a system of smart expanding lists (accordions). 
-This allowed the layout to remain "clean": in its idle state, the interface remains light and image-focused. The user chooses the depth of immersion into details (Engine, Battery, Safety) by opening only the necessary blocks.
+This allowed the layout to remain "clean": in its idle state, the interface remains light and image-focused. The user chooses the depth of immersion into details (Electronics, Bike, Key specifications) by opening only the necessary blocks.
 
 ![Interactive Specs & Accordions](images/2.jpg)
 
